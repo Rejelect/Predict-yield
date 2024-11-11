@@ -41,9 +41,9 @@ The machine learning model (model.pkl) is a pre-trained model that utilizes the 
 ### Installation
 
 To set up the project environment, install the required dependencies:
-
+```cmd
 pip install -r requirements.txt
-
+```
 The requirements include packages for data processing (pandas, numpy), machine learning (sklearn), and other necessary tools.
 
 ### Usage
